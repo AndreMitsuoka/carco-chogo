@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+#header1-0 P {
+  color: #b8312f;
+  font-size: 30px;
+}
+#header1-0 H1 {
+  color: #000000;
+  font-size: 48px;
+  font-family: 'Oxygen', sans-serif;
+}
+#content5-5 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-5 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-5 .mbr-article {
+  color: #fff;
+}
+#testimonials1-7 .mbr-reviews__text P {
+  text-align: left;
+}
+#slider2-b P {
+  color: #ffffff;
+  font-size: 23px;
+}
+#slider2-b H1 {
+  color: #ffffff;
+}
